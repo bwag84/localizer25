@@ -16,3 +16,18 @@ translated_keyword_nl = "beste pizza"
 
 Localization
 localized_keyword_nl = "lekkerste pizza"
+
+# Release notes
+
+- v0.1 beta is released
+- Localizes keywords using the Claude API
+- Contains major languages for APAC and EU
+- Upload with CSV
+- Enter manually
+- Write to database 
+
+# Upcoming features
+
+- All global languages
+- Set target language to multiple languages for bulk localization
+- Refined parameters
