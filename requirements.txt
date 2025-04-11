@@ -1,4 +1,8 @@
+
 streamlit
 pandas
 anthropic
+openai
+google-generativeai
 python-dotenv
+uuid

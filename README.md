@@ -31,3 +31,13 @@ localized_keyword_nl = "lekkerste pizza"
 - All global languages
 - Set target language to multiple languages for bulk localization
 - Refined parameters
+
+Model switcher
+Add the date of addition to the database
+Add region to the langauge, based on the file we create for that... 
+
+Can we connect the grouper?
+
+A prompt tuner. It shows the current set prompt, but when it is altered, it will use that prompt instead.
+
+Each model selected, gets it's own standard prompt.
