@@ -16,7 +16,7 @@ import asyncio
 st.set_page_config(page_title="Advanced SEO Keyword Localizer", layout="wide")
 # -------------------------------------------------------
 
-st.write(f"Streamlit is using Python executable: {sys.executable}")
+#st.write(f"Streamlit is using Python executable: {sys.executable}")
 
 # Load environment variables
 load_dotenv()
