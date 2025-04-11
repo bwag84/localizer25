@@ -1,4 +1,9 @@
+
 streamlit
 pandas
 anthropic
+openai
+google-generativeai
+mistralai>=0.5.0  # Updated to use the latest version
 python-dotenv
+uuid
